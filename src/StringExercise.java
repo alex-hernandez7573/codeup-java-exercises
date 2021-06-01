@@ -7,5 +7,10 @@ public class StringExercise {
 
         String message2 = "\nCheck \"this\" out!, \"s inside of \"s!";
         System.out.print(message2);
+
+        String driveString = "in Windows, the main drive is usually C:";
+        System.out.println(driveString);
+
+        String tooMuchFunWithEscapingCharcters = "I can do backslashes \\, double backslashes \\, and the amazing " +"triple backslash \\\\\\";
     }
 }
