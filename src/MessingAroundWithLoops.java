@@ -1,4 +1,4 @@
-public class messingAroundWithLoops<names> {
+public class MessingAroundWithLoops<names> {
     public static void  main (String [] args){
         // basic while loop
        int i = 0;

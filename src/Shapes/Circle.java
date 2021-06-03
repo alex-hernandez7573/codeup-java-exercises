@@ -1,8 +1,4 @@
-package shapes;
-
-import org.w3c.dom.ls.LSOutput;
-import util.Input;
-import util.inputTest;
+package Shapes;
 
 //import java.util.Scanner;
 

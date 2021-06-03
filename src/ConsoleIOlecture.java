@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.stream.StreamSupport;
 
-public class consoleIOlecture {
+public class ConsoleIOlecture {
 
     public static void  main (String [] args){
 //        System.out.println("Hello, World");
