@@ -4,12 +4,14 @@ import java.util.Scanner;
 
 public class Input {
 
-    private Scanner scanner = new Scanner(System.in);
+    private static Scanner scanner;
+//    private Scanner scanner;
 
 
-    private String getString() {
-        return this.scanner.nextLine();
-    }
+  public String getString() {
+      return this.scanner.nextLine();
+  }
+
 
     public String getString (String userInput) {
         if(userInput.isEmpty()){
